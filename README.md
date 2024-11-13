@@ -1,5 +1,2 @@
-# JYB
+Hello, I'm Yong-bin Cho
 
-Hello github
-
-Hello 22
